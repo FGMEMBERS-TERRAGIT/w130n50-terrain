@@ -1,0 +1,5 @@
+OBJECT_BASE 942865.btg
+OBJECT CYPS.btg
+OBJECT_SHARED Models/Airport/windsock.xml -122.736984 50.302940 203.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -122.745482 50.302340 204.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -122.729881 50.303507 202.9 0.00

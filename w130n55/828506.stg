@@ -1,0 +1,4 @@
+OBJECT_BASE 828506.btg
+OBJECT CZAA.btg
+OBJECT_SHARED Models/Airport/windsock.xml -129.485511 55.478443 5.2 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -129.483813 55.484299 14.2 0.00
